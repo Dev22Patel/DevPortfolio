@@ -77,7 +77,6 @@ const skillIcons = {
     "CSS3": faCss3Alt,
     "JavaScript": faJs,
     "React": faReact,
-    "Vue.js": faVuejs,
     "Node.js": faNodeJs,
     "MongoDB": faDatabase,
     "PostgreSQL": faDatabase,

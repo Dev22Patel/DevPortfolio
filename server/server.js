@@ -8,10 +8,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // MongoDB connection
-mongoose.connect('mongodb://127.0.0.1:27017/contactDB', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+mongoose.connect('mongodb://127.0.0.1:27017/contactDB');
 
 const ContactSchema = new mongoose.Schema({
   name: String,

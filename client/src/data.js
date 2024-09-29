@@ -28,7 +28,7 @@ export const projects = [
   ];
 
   export const skills = [
-    "HTML5", "CSS3", "JavaScript", "React", "Vue.js", "Node.js", "Express",
-    "MongoDB", "PostgreSQL", "GraphQL", "REST APIs", "Git", "Webpack",
+    "HTML5", "CSS3", "JavaScript", "React", "Node.js", "Express",
+    "MongoDB", "SQL", "Java", "REST APIs", "Git", "SpringBoot","Django",
     "Responsive Design", "UI/UX Design", "Agile Methodologies"
   ];
